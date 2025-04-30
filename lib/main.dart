@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'PTA App',
+      title: 'EduConnect',
       home: LoginPage(),
     );
   }
