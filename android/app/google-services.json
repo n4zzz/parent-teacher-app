@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "826928035408",
+    "project_id": "educonnect-3da1d",
+    "storage_bucket": "educonnect-3da1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826928035408:android:6631325e57593c235e0355",
+        "android_client_info": {
+          "package_name": "com.educonnect.saufi.nazrin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826928035408-7o02iavmfaa9edlmr4i4hivbk0vlfll4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFjF5u3HOl9G5Z22WRxJApmZgL1MiJow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826928035408-7o02iavmfaa9edlmr4i4hivbk0vlfll4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826928035408-e6f3cf054lavb8gls4klda4u2cbvhobi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.educonnect.saufi.nazrin.educonnect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826928035408:android:c855c044ef209aa05e0355",
+        "android_client_info": {
+          "package_name": "com.educonnect.saufi.nazrin.educonnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826928035408-7o02iavmfaa9edlmr4i4hivbk0vlfll4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFjF5u3HOl9G5Z22WRxJApmZgL1MiJow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826928035408-7o02iavmfaa9edlmr4i4hivbk0vlfll4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826928035408-e6f3cf054lavb8gls4klda4u2cbvhobi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.educonnect.saufi.nazrin.educonnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
