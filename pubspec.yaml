@@ -90,3 +90,24 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+  assets:
+    - assets/Login_background_bright.png # Or your actual image path
+    # - assets/images/ # if you have many images in a subfolder
+
+  fonts:
+    - family: Hind
+      fonts:
+        - asset: fonts/Hind-Regular.ttf # Or your path to Hind
+    - family: Montserrat
+      fonts:
+        - asset: fonts/Montserrat-Bold.ttf
+          weight: 700
+        - asset: fonts/Montserrat-Regular.ttf # If you need regular Montserrat
+    - family: Poppins # Add Poppins
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+        # - asset: assets/fonts/Poppins-SemiBold.ttf
+        #   weight: 600
+        # - asset: assets/fonts/Poppins-Bold.ttf
+        #   weight: 700
